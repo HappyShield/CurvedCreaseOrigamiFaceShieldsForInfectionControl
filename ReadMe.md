@@ -1,6 +1,3 @@
-Date Updated: 2021 02 01
-Contact: Aurimas Bukauskas (ab2005@cam.ac.uk). 
-
 These files support the following publication: 
 
 _Bukauskas, A., Koronaki, A., Lee, T.-U., Ott, D., Al Asali, M.W., Jalia, A., Bashford, T., Gatoó, A., Newman, J., Gattas, Joseph M., Shah, Darshil U., Ramage, Michael H., 2021. Curved-crease origami face shields for infection control. PLOS ONE._
